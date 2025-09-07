@@ -13,7 +13,7 @@
         /* Hero Section */
     .hero {
       position: relative;
-      background: url('./con.jpg') no-repeat center center/cover;
+      background: url('./gr.jpg') no-repeat center center/cover;
       height: 250px;
       display: flex;
       align-items: center;
@@ -92,10 +92,10 @@
     }
 
 
-            /* Responsive */
+     /* Responsive */
     @media (max-width: 768px) {
       nav ul {
-         /* display: none;   */
+        display: none;    
         flex-direction: column;
         position: absolute;
         top: 60px;
